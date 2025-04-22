@@ -1,4 +1,4 @@
-# PythonAnywhere MCP (Model-Controller-Provider)
+# PythonAnywhere MCP (model context protocol)
 
 This MCP tool allows you to easily push your local Python code to your PythonAnywhere account.
 
